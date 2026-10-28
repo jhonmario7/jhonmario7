@@ -6,11 +6,11 @@
 ============================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:7B2FF7&height=200&section=header&text=Jhon%20Mario%20Rodr%C3%ADguez&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Frontend%20%C2%B7%20Siempre%20aprendiendo&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner: Jhon Mario Rodríguez, Software Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:7B2FF7&height=200&section=header&text=Jhon%20Mario%20Rodr%C3%ADguez&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Software%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner: Jhon Mario Rodríguez, Ingeniero de Sistemas y Software Developer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E535AB&center=true&vCenter=true&width=480&lines=Software+Developer;Frontend+con+Angular+y+TypeScript;Aprendiendo+Next.js%2C+Node.js+y+React;Desde+Neiva%2C+Colombia" alt="Frases animadas: Software Developer, Frontend con Angular y TypeScript, Aprendiendo Next.js Node.js y React, Desde Neiva Colombia"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E535AB&center=true&vCenter=true&width=480&lines=Software+Developer;Ingeniero+de+Sistemas;Web+Designer;Frontend+Developer" alt="Frases animadas: Software Developer, Ingeniero de Sistemas, Web Designer, Frontend Developer"/>
 </p>
 
 <p align="center">
