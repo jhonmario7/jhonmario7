@@ -6,7 +6,7 @@
 ============================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:7B2FF7&height=200&section=header&text=Jhon%20Mario%20Rodr%C3%ADguez&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Software%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner: Jhon Mario Rodríguez, Ingeniero de Sistemas y Software Developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:7B2FF7&height=200&section=header&text=Jhon%20Mario%20Rodriguez&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Ingeniero%20de%20Sistemas%20%C2%B7%20Software%20Developer&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner: Jhon Mario Rodriguez, Ingeniero de Sistemas y Software Developer"/>
 </p>
 
 <p align="center">
