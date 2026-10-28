@@ -1,24 +1,23 @@
 <!-- ============================================================
   README de perfil · jhonmario7
-  Si las tarjetas de estadísticas dejan de cargar (la instancia pública
-  de github-readme-stats tiene límites), autoalójala gratis en Vercel:
-  https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
-  y cambia "github-readme-stats.vercel.app" por tu propio dominio.
+  Las tarjetas de github-readme-stats se retiraron porque su instancia
+  pública suele estar caída. Si quieres volver a usarlas, autoalójala en
+  Vercel: https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own
 ============================================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:7B2FF7&height=200&section=header&text=Jhon%20Mario%20Rodr%C3%ADguez&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Frontend%20Developer%20%C2%B7%20Angular%20%C2%B7%20TypeScript&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner: Jhon Mario Rodríguez, Frontend Developer, Angular y TypeScript"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:DD0031,100:7B2FF7&height=200&section=header&text=Jhon%20Mario%20Rodr%C3%ADguez&fontSize=42&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%C2%B7%20Frontend%20%C2%B7%20Siempre%20aprendiendo&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Banner: Jhon Mario Rodríguez, Software Developer"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E535AB&center=true&vCenter=true&width=480&lines=Angular+Developer+%F0%9F%85%B0%EF%B8%8F;Construyendo+ERPs+empresariales;Signals+%C2%B7+RxJS+%C2%B7+NgRx;Desde+Neiva%2C+Colombia+%F0%9F%87%A8%F0%9F%87%B4" alt="Frases animadas: Angular Developer, Construyendo ERPs empresariales, Signals RxJS NgRx, Desde Neiva Colombia"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=E535AB&center=true&vCenter=true&width=480&lines=Software+Developer;Frontend+con+Angular+y+TypeScript;Aprendiendo+Next.js%2C+Node.js+y+React;Desde+Neiva%2C+Colombia" alt="Frases animadas: Software Developer, Frontend con Angular y TypeScript, Aprendiendo Next.js Node.js y React, Desde Neiva Colombia"/>
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/jmariorodri"><img src="https://img.shields.io/badge/LinkedIn-DD0031?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/jmariorodri"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:jmrodriguezramirez4@gmail.com"><img src="https://img.shields.io/badge/Gmail-C3002F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://x.com/marioneet__"><img src="https://img.shields.io/badge/X-7B2FF7?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter"/></a>
-  <a href="https://ayo.so/marioneet"><img src="https://img.shields.io/badge/Links-E535AB?style=for-the-badge&logo=linktree&logoColor=white" alt="Enlace personal"/></a>
+  <a href="https://ayo.so/marioneet_"><img src="https://img.shields.io/badge/Links-E535AB?style=for-the-badge&logo=linktree&logoColor=white" alt="Enlace personal"/></a>
   <img src="https://komarev.com/ghpvc/?username=jhonmario7&label=Visitas&color=DD0031&style=for-the-badge" alt="Contador de visitas"/>
 </p>
 
@@ -26,11 +25,11 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **Ingeniero de Sistemas y Desarrollador Frontend Semi-Senior** con 3 años de experiencia construyendo aplicaciones web SPA en **Angular y TypeScript**. Hoy desarrollo módulos de un ERP empresarial y publico landings y paneles freelance para clientes en Angular 21 y 22.
+Soy **Ingeniero de Sistemas y Desarrollador de Software** con 3 años de experiencia. Mi fuerte hoy es el frontend con **Angular y TypeScript**: desarrollo módulos de un ERP empresarial y publico landings y paneles freelance para clientes. Me gusta aprender, y ahora estoy ampliando mi stack hacia el backend y otros frameworks.
 
 - 🔭 **Actualmente:** módulos del ERP **DATASSEQ** en MASSEQ S.A.S.
-- 🅰️ **Especialidad:** Angular 14 → 22, standalone components, signals y arquitectura modular
-- 🌱 **Explorando:** Cloud/DevOps, Inteligencia Artificial y UI/UX
+- 💻 **Fuerte actual:** frontend con Angular 14 → 22, standalone components, signals y arquitectura modular
+- 🌱 **Aprendiendo:** Next.js, Node.js, React y fundamentos de backend
 - 🇬🇧 **Mejorando:** mi inglés (A2, en formación)
 - 📫 **Contacto:** jmrodriguezramirez4@gmail.com
 - ⚡ **Dato curioso:** al principio programar no me gustaba nada; hoy es lo que más disfruto hacer.
@@ -54,9 +53,7 @@ Soy **Ingeniero de Sistemas y Desarrollador Frontend Semi-Senior** con 3 años d
 **UI y gráficos**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" alt="Bootstrap"/>
-</p>
-<p>
+  <img src="https://img.shields.io/badge/Bootstrap-7B2FF7?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
   <img src="https://img.shields.io/badge/Angular_Material-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular Material"/>
   <img src="https://img.shields.io/badge/PrimeNG-C3002F?style=for-the-badge&logoColor=white" alt="PrimeNG"/>
   <img src="https://img.shields.io/badge/Chart.js-7B2FF7?style=for-the-badge&logo=chartdotjs&logoColor=white" alt="Chart.js"/>
@@ -64,10 +61,32 @@ Soy **Ingeniero de Sistemas y Desarrollador Frontend Semi-Senior** con 3 años d
   <img src="https://img.shields.io/badge/ECharts-DD0031?style=for-the-badge&logo=apacheecharts&logoColor=white" alt="Apache ECharts"/>
 </p>
 
+**Diseño y multimedia**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=figma,xd,ai,ps,pr&theme=dark" alt="Figma, Adobe XD, Illustrator, Photoshop, Premiere Pro"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Canva-DD0031?style=for-the-badge&logoColor=white" alt="Canva"/>
+  <img src="https://img.shields.io/badge/CapCut-C3002F?style=for-the-badge&logoColor=white" alt="CapCut"/>
+  <img src="https://img.shields.io/badge/Vegas_Pro-7B2FF7?style=for-the-badge&logo=vegas&logoColor=white" alt="Sony Vegas Pro"/>
+</p>
+
 **Herramientas e integración**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,figma,firebase,wordpress,mysql&theme=dark" alt="Git, GitHub, GitLab, VS Code, Postman, Figma, Firebase, WordPress, MySQL"/>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,vscode,postman,firebase,wordpress,mysql&theme=dark" alt="Git, GitHub, GitLab, VS Code, Postman, Firebase, WordPress, MySQL"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Claude_Code-DD0031?style=for-the-badge&logo=claude&logoColor=white" alt="Claude Code"/>
+  <img src="https://img.shields.io/badge/Codex-7B2FF7?style=for-the-badge&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Cloudflare_Pages-E535AB?style=for-the-badge&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages"/>
+</p>
+
+**Aprendiendo ahora**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nextjs,nodejs,react&theme=dark" alt="Next.js, Node.js, React"/>
 </p>
 
 **Móvil y metodologías**
@@ -166,26 +185,24 @@ Soy **Ingeniero de Sistemas y Desarrollador Frontend Semi-Senior** con 3 años d
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/jhonmario7/todo-ionic-accenture">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonmario7&repo=todo-ionic-accenture&bg_color=0D1117&title_color=DD0031&icon_color=E535AB&text_color=C9D1D9&hide_border=true" alt="Repositorio todo-ionic-accenture"/>
-      </a>
+      <h3>📱 TO-DO App híbrida</h3>
+      <p>App móvil con CRUD de tareas, categorías, modo claro/oscuro y feature flags remotos. Prueba técnica.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Ionic_7-C3002F?style=flat-square&logo=ionic&logoColor=white" alt="Ionic 7"/>
+        <img src="https://img.shields.io/badge/Angular_17-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular 17"/>
+        <img src="https://img.shields.io/badge/Firebase-7B2FF7?style=flat-square&logo=firebase&logoColor=white" alt="Firebase"/>
+      </p>
+      <sub>💻 <a href="https://github.com/jhonmario7/todo-ionic-accenture">todo-ionic-accenture</a></sub>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/jhonmario7/pokedex-angular-prueba">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonmario7&repo=pokedex-angular-prueba&bg_color=0D1117&title_color=DD0031&icon_color=E535AB&text_color=C9D1D9&hide_border=true" alt="Repositorio pokedex-angular-prueba"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jhonmario7/condominium-management-system">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonmario7&repo=condominium-management-system&bg_color=0D1117&title_color=DD0031&icon_color=E535AB&text_color=C9D1D9&hide_border=true" alt="Repositorio condominium-management-system"/>
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/jhonmario7/crud-app">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=jhonmario7&repo=crud-app&bg_color=0D1117&title_color=DD0031&icon_color=E535AB&text_color=C9D1D9&hide_border=true" alt="Repositorio crud-app"/>
-      </a>
+      <h3>🏢 Condominium Management</h3>
+      <p>Guía web interactiva de un sistema de gestión de condominios: reservas, eventos y residentes.</p>
+      <p>
+        <img src="https://img.shields.io/badge/HTML5-DD0031?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+        <img src="https://img.shields.io/badge/CSS3-C3002F?style=flat-square&logo=css&logoColor=white" alt="CSS3"/>
+        <img src="https://img.shields.io/badge/JavaScript-7B2FF7?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript"/>
+      </p>
+      <sub>💻 <a href="https://github.com/jhonmario7/condominium-management-system">condominium-management-system</a></sub>
     </td>
   </tr>
 </table>
@@ -196,28 +213,11 @@ Soy **Ingeniero de Sistemas y Desarrollador Frontend Semi-Senior** con 3 años d
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jhonmario7&show_icons=true&include_all_commits=true&bg_color=0D1117&title_color=DD0031&icon_color=E535AB&text_color=C9D1D9&hide_border=true&locale=es">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=jhonmario7&show_icons=true&include_all_commits=true&bg_color=FFFFFF&title_color=C3002F&icon_color=7B2FF7&text_color=24292F&hide_border=true&locale=es" alt="Estadísticas de GitHub de jhonmario7"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmario7&layout=compact&bg_color=0D1117&title_color=DD0031&text_color=C9D1D9&hide_border=true&locale=es">
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonmario7&layout=compact&bg_color=FFFFFF&title_color=C3002F&text_color=24292F&hide_border=true&locale=es" alt="Lenguajes más usados por jhonmario7"/>
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=jhonmario7&background=0D1117&ring=DD0031&fire=E535AB&currStreakLabel=DD0031&sideLabels=C9D1D9&dates=8B949E&currStreakNum=FFFFFF&sideNums=FFFFFF&stroke=30363D&hide_border=true&locale=es">
     <img src="https://streak-stats.demolab.com?user=jhonmario7&background=FFFFFF&ring=C3002F&fire=7B2FF7&currStreakLabel=C3002F&sideLabels=24292F&dates=57606A&currStreakNum=24292F&sideNums=24292F&hide_border=true&locale=es" alt="Racha de contribuciones de jhonmario7"/>
   </picture>
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jhonmario7&bg_color=0D1117&color=C9D1D9&line=DD0031&point=E535AB&area=true&area_color=7B2FF7&hide_border=true">
-    <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jhonmario7&bg_color=FFFFFF&color=24292F&line=C3002F&point=7B2FF7&area=true&area_color=E535AB&hide_border=true" alt="Gráfico de actividad de contribuciones de jhonmario7"/>
-  </picture>
-</p>
 
 ---
 
@@ -229,9 +229,7 @@ Soy **Ingeniero de Sistemas y Desarrollador Frontend Semi-Senior** con 3 años d
 - 📜 **JavaScript Moderno: Guía para dominar el lenguaje** · DevTalles <sub>(2024)</sub>
 - 📜 **Programación para principiantes** y **VS Code: Mejora tu velocidad** · Fernando Herrera, Udemy <sub>(2021)</sub>
 
----
-
-## 💡 Intereses
+### 💡 Intereses
 
 <p>
   <img src="https://img.shields.io/badge/IA_y_Data-DD0031?style=for-the-badge" alt="Inteligencia Artificial y Ciencia de Datos"/>
