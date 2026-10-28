@@ -33,7 +33,7 @@ Soy **Ingeniero de Sistemas y Desarrollador Frontend Semi-Senior** con 3 años d
 - 🌱 **Explorando:** Cloud/DevOps, Inteligencia Artificial y UI/UX
 - 🇬🇧 **Mejorando:** mi inglés (A2, en formación)
 - 📫 **Contacto:** jmrodriguezramirez4@gmail.com
-- ⚡ **Dato curioso:** [COMPLETAR: dato personal opcional]
+- ⚡ **Dato curioso:** al principio programar no me gustaba nada; hoy es lo que más disfruto hacer.
 
 ---
 
